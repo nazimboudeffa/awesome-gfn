@@ -1,4 +1,107 @@
 # Awesome GFN
 A list of packages used for the GeForce Now Client, can be found on [The NVidia GFN OSS License](https://www.nvidia.com/en-us/about-nvidia/gfn-pc-oss-and-third-party-license-notes/)
 
-https://github.com/angular/animations-builds
+- https://github.com/angular/animations-builds
+- https://github.com/angular/cdk-builds
+- https://github.com/angular/common-builds
+- https://github.com/angular/compiler-builds
+- https://github.com/angular/angular
+- https://github.com/angular/flex-layout
+- https://github.com/angular/forms-builds
+- https://github.com/angular/http-builds
+- https://github.com/angular/material2
+- https://github.com/angular/platform-browser-builds
+- https://github.com/angular/platform-browser-dynamic-builds
+- https://github.com/angular/router-builds
+- https://github.com/ngx-translate/core
+- https://github.com/ngx-translate/http-loader
+- https://github.com/DefinitelyTyped/DefinitelyTyped
+- https://github.com/DefinitelyTyped/DefinitelyTyped
+- https://github.com/beatgammit/base64-js
+- https://github.com/dcodeIO/bytebuffer.js
+- https://www.npmjs.com/package/core-js
+- https://github.com/Foliotek/Croppie
+- https://github.com/TehShrike/deepmerge
+- https://github.com/stacktracejs/error-stack-parser
+- https://github.com/hammerjs/hammer.js
+- https://github.com/gillesruppert/node-interpolate
+- https://github.com/lightstep/lightstep-tracer-javascript
+- https://github.com/kjur/jsrsasign
+- http://www-cs-students.stanford.edu/~tjw/jsbn/
+- https://code.google.com/p/crypto-js/wiki/License
+- https://github.com/bitcoinjs/bitcoinjs-lib
+- https://github.com/lodash/lodash
+- https://github.com/olivernn/lunr.js
+- https://github.com/marella/material-icons
+- https://github.com/moment/moment
+- https://github.com/isaacplmann/ngx-contextmenu
+- https://github.com/bfwg/ngx-drag-scroll
+- https://github.com/MrFrankel/ngx-popper
+- https://github.com/isaacplmann/ngx-tour
+- https://github.com/isaacplmann/ngx-tour
+- https://github.com/opentracing/opentracing-javascript
+- https://github.com/FezVrasta/popper.js
+- https://github.com/reactivex/rxjs
+- https://github.com/stopwords-iso/stopwords-iso
+- https://github.com/leungwensen/tiny-segmenter
+- https://github.com/angular/zone.js
+- https://github.com/puleos/object-hash
+- https://github.com/angular/angular-cli
+- https://github.com/angular/angular-cli
+- https://github.com/angular/angular/tree/master/packages/compiler-cli
+- https://github.com/angular/angular#readme
+- https://github.com/DefinitelyTyped/DefinitelyTyped#readme
+- https://www.npmjs.com/package/@types/jasmine
+- 50. @types/jasmine-ajax version: 3.1.39
+- 51. @types/jasminewd2 version: 2.0.3
+- 52. @types/lodash version: 4.14.109
+- 53. @types/node version: 8.9.5
+- 54. codelyzer version: 4.5.0
+- https://github.com/jprichardson/node-fs-extra
+- https://github.com/typicode/husky#readme
+- https://github.com/jasmine/jasmine-ajax#readme
+- https://github.com/jasmine/jasmine
+- https://github.com/synapse-wireless-labs/jasmine-marbles
+- https://github.com/bcaudan/jasmine-spec-reporter
+- http://karma-runner.github.io/latest/index.html
+- https://github.com/bcherny/json-schema-to-typescript#readme
+- https://github.com/karma-runner/karma-chrome-launcher#readme
+- https://github.com/mattlewis92/karma-coverage-istanbul-reporter#readme
+- https://github.com/karma-runner/karma-jasmine#readme
+- https://github.com/IDCubed/karma-jasmine-ajax
+- https://github.com/dfederm/karma-jasmine-html-reporter#readme
+- https://github.com/karma-runner/karma-junit-reporter#readme
+- https://github.com/ng-packagr/ng-packagr
+- https://prettier.io/
+- https://github.com/hexacta/prettier-check
+- https://github.com/ismail-syed/prettier-stylelint-formatter#readme
+- https://github.com/angular/protractor
+- https://github.com/stylelint/stylelint-config-standard#readme
+- https://github.com/TypeStrong/ts-node
+- https://github.com/angular/tsickle
+- http://typescriptlang.org/
+- https://palantir.github.io/tslint
+- https://www.typescriptlang.org/
+- https://git.coolaj86.com/coolaj86/fs-walk.js
+- https://github.com/angular/angular-cli
+- http://www.7-zip.org/license.txt
+- http://tinyxpath.sourceforge.net
+- https://github.com/ts-boost/boost/wiki
+- https://github.com/cefsharp/CefSharp
+- https://github.com/cefsharp/cef-binary/ IMPORTANT
+- https://github.com/google/angle/
+- https://www.ffmpeg.org/
+- https://github.com/jkowalski/NLog/
+- https://github.com/skaslev/gl3w
+- https://github.com/ocornut/imgui
+- https://github.com/coturn/rfc5766-turn-server/
+- https://github.com/nodejs/http-parser
+- http://www.opus-codec.org/
+- http://libb64.sourceforge.net/
+- http://enet.bespin.org/
+- http://www.openssl.org
+- http://curl.haxx.se
+- https://code.google.com/p/msinttypes/
+- http://www.scumways.com/happyhttp/happyhttp.html
+- https://github.com/akheron/jansson
+- https://github.com/olivernn/lunr.js
